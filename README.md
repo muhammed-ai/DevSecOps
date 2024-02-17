@@ -1,7 +1,8 @@
 This repository serves as a comprehensive collection of DevSecOps | cybersecurity-related related hands-on projects. 
 It is carefully curated and maintained by Muhammed Ibrahim.
 ## Overview
-Unit	Topic	Project
+Project topics. 
+|--------------|------------|--------------|
 1	Lab: Logging
 Project: Log analysis and correlation of events
 • Wireshark
