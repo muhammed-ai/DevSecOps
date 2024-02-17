@@ -4,8 +4,8 @@ It is carefully curated and maintained by Muhammed Ibrahim.
 Project topics. 
 
 **1	Lab: Logging**
-Project: Log analysis and correlation of events
-• Wireshark
+- Project: Log analysis and correlation of events
+- Wireshark
 • EInspect PCAP files
 • Inspect email traffic
 2	Lab: Host instrusion prevention / detection systems
