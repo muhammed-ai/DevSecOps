@@ -15,26 +15,30 @@ Project topics.
   - Integrity monitoring
   - Identify modification
     
-3	Lab: Endpoint networking (SSH)
-Project: Endpoint networking (FTP)
-• FTP
-• Directory traversal attack
-• Detect directory traversal attack
-4	Lab: Enterprise networking (SSL Proxy)
-Project: Enterprise networking (DoS)
-• DoS attack
-• Proxy server
-• nginx
-5	Lab: Security Events
-Project: SIEM CTF
-• SIEM
-• Event log correlation
-• Malware event timeline
-6	Lab: Incident Response
-Project: Incident Response
-• Catalyst
-• NIST IR Framework
-• Incident analysis
+**3	Lab: Endpoint networking (SSH)**
+- Project: Endpoint networking (FTP)
+  - FTP
+  - Directory traversal attack
+  - Detect directory traversal attack
+    
+**4	Lab: Enterprise networking (SSL Proxy)**
+- Project: Enterprise networking (DoS)
+  - DoS attack
+  - Proxy server
+  - nginx
+    
+**5	Lab: Security Events**
+-Project: SIEM CTF
+  - SIEM
+  - Event log correlation
+  - Malware event timeline
+  - 
+**6	Lab: Incident Response**
+-Project: Incident Response
+  - Catalyst
+  - NIST IR Framework
+  - Incident analysis
+
 7	Lab: Threat Intel
 Project: Threat Hunting
 • MISP
