@@ -3,7 +3,7 @@ It is carefully curated and maintained by Muhammed Ibrahim.
 ## Overview
 Project topics. 
 
-*1	Lab: Logging
+** 1	Lab: Logging
 Project: Log analysis and correlation of events
 • Wireshark
 • EInspect PCAP files
