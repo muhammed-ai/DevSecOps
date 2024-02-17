@@ -5,14 +5,16 @@ Project topics.
 
 **1	Lab: Logging**
 - Project: Log analysis and correlation of events
-- Wireshark
-• EInspect PCAP files
-• Inspect email traffic
-2	Lab: Host instrusion prevention / detection systems
-Project: File integrity validation
-• Wazuh
-• Integrity monitoring
-• Identify modification
+  - Wireshark
+  - EInspect PCAP files
+  - Inspect email traffic
+    
+**2	Lab: Host instrusion prevention / detection systems**
+- Project: File integrity validation
+  - Wazuh
+  - Integrity monitoring
+  - Identify modification
+    
 3	Lab: Endpoint networking (SSH)
 Project: Endpoint networking (FTP)
 • FTP
