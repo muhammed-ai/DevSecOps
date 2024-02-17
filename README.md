@@ -32,8 +32,8 @@ Project topics.
   - SIEM
   - Event log correlation
   - Malware event timeline
-  - 
-**6	Lab: Incident Response**
+    
+#6	Lab: Incident Response
 -Project: Incident Response
   - Catalyst
   - NIST IR Framework
