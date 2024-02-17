@@ -33,22 +33,19 @@ Project topics.
   - Event log correlation
   - Malware event timeline
     
-#6	Lab: Incident Response
+**6	Lab: Incident Response**
 -Project: Incident Response
   - Catalyst
   - NIST IR Framework
   - Incident analysis
 
-7	Lab: Threat Intel
-Project: Threat Hunting
-• MISP
-• Threat Feeds
-• TTPs
-8	Group Capstone: Milestone 1	• HUNT
-• Log event analysis
-• Threat Intel
-9	Group Capstone: Milestone 2	• SOAR
-• Demonstrating skills
-10	Group Capstone: Demo Day!	• Sharing learning
-• Celebrating accomplishments
+**7	Lab: Threat Intel**
+- Project: Threat Hunting
+  - MISP
+  - Threat Feeds
+  - TTPs
+    
+**8	Group Capstone: Milestone 1	• HUNT**
+- Log event analysis
+  - Threat Intel
 
