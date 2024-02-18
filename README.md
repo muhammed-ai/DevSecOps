@@ -44,8 +44,4 @@ Project topics.
   - MISP
   - Threat Feeds
   - TTPs
-    
-**8	Group Capstone: Milestone 1	• HUNT**
-- Log event analysis
-  - Threat Intel
 
